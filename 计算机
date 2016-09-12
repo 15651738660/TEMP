@@ -1,6 +1,7 @@
 #include<iostream>
-using namespace std ; 
+using namespace std; 
+
 int main () 
 {
-    cout << "计算机";
+    cout << "计算机" << endl;
 }
